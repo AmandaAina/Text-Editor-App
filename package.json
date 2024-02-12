@@ -1,5 +1,13 @@
 {
+  "name": "Text-Editor-App",
+  "version": "1.0.0",
+  "description": "Your application description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
   "dependencies": {
     "idb": "^8.0.0"
   }
 }
+
